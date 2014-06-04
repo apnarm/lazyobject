@@ -1,5 +1,5 @@
-lazyobject
-==========
+lazyobject 0.0.1
+================
 
 A thread-safe LazyObject class for Python.
 
